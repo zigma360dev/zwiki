@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "text": "Getting Started",
+      "path": "about/getting-started.md",
+	  "items": [
+        {
+          "text": "Syntax Reference",
+          "path": "https://squidfunk.github.io/mkdocs-material/reference/abbreviations/"
+        }
+      ]
+    },
+    {
+      "text": "How-To",
+      "items": [
+	    {
+          "text": "Porting Projects to .NET 6",
+          "path": "how-to/porting-csproject-to-net6.md"
+        },
+        {
+          "text": "Zigma cloud certificate",
+          "path": "how-to/cloud-wildcard-certificate.md"
+        }
+      ]
+    },
+    {
+      "text": "Git",
+	  "path": "git/index.md",
+      "items": [
+        {
+          "text": "Installation",
+          "path": "git/installation.md"
+        },
+        {
+          "text": "Zigma360 git workflow",
+          "path": "git/zigma360-git-workflow.md"
+        },
+        {
+          "text": "Git Commands",
+          "path": "git/git-commands.md"
+        },
+        {
+          "text": "Undoing Changes",
+          "path": "git/undoing-changes.md"
+        }
+      ]
+    }
+  ]
+}
